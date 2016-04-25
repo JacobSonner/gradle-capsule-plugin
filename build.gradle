@@ -12,8 +12,8 @@ A Gradle plugin utilizing Capsule, the packaging and deployment tool for JVM app
 (http://www.capsule.io)
 """
 
-sourceCompatibility = 1.6
-targetCompatibility = 1.6
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
 
 repositories {
     jcenter()
